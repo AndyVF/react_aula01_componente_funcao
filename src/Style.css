@@ -1,0 +1,12 @@
+.contar {
+    font-family: sans-serif;
+    text-align: center;
+    border: 3px double rgb(192, 216, 255);
+    background-color: whitesmoke;
+    padding: 3%;
+    margin: 10%;
+}
+
+body {
+    background: linear-gradient(to right,rgba(0, 0, 255, 0.774), rgba(255, 255, 0, 0.74));
+}
